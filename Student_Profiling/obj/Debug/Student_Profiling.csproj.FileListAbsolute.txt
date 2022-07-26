@@ -88,3 +88,6 @@ G:\Visual Studio Projects\c#\Student_Profiling\Student_Profiling\obj\Debug\Stude
 G:\Visual Studio Projects\c#\Student_Profiling\Student_Profiling\obj\Debug\Student_Profiling.ucEnlistment.resources
 G:\Visual Studio Projects\c#\Student_Profiling\Student_Profiling\obj\Debug\Student_Profiling.ucPrograms.resources
 G:\Visual Studio Projects\c#\Student_Profiling\Student_Profiling\obj\Debug\Student_Profiling.csproj.GenerateResource.Cache
+D:\Visual Studio Projects\Visual Studio 2015\Desktop Application\Student_Profiling\Student_Profiling\bin\Debug\Student_Profiling.exe.config
+D:\Visual Studio Projects\Visual Studio 2015\Desktop Application\Student_Profiling\Student_Profiling\obj\Debug\Student_Profiling.exe
+D:\Visual Studio Projects\Visual Studio 2015\Desktop Application\Student_Profiling\Student_Profiling\obj\Debug\Student_Profiling.pdb
